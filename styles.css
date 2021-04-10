@@ -1,0 +1,45 @@
+body {
+    background-color: crimson;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+p {
+    font-size: 100px;
+    font-weight: 50px
+}
+
+.BUTTON_DUP {
+    background: #2888F3;
+    background-image: -webkit-linear-gradient(top, #2888F3, #315B9E);
+    background-image: -moz-linear-gradient(top, #2888F3, #315B9E);
+    background-image: -ms-linear-gradient(top, #2888F3, #315B9E);
+    background-image: -o-linear-gradient(top, #2888F3, #315B9E);
+    background-image: -webkit-gradient(to bottom, #2888F3, #315B9E);
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    color: #FFFFFF;
+    /*font-family: Open Sans;*/
+    font-size: 47px;
+    font-weight: 600;
+    padding: 39px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 0 1px 20px #000000;
+    border: solid #000000 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_DUP:hover {
+    background: black;
+    border: solid #000000 0;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    text-decoration: none;
+ }
